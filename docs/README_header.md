@@ -8,7 +8,7 @@ the configuration using Terraform code (IaC).
 ## Permissions
 
 To manage the resources from that code, provide key and a secret from an account
-with `AdministratorAccess` permissions. 
+with `AdministratorAccess` permissions.
 
 ## Authentication
 
